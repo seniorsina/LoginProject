@@ -5,5 +5,6 @@
   },
   "db":{
     "connectionString": "mongodb://localhost:27017/loginproject"
-  }
+  },
+  "jwt_key":"sfdafhgdskh2541@akhkgk"
 }
